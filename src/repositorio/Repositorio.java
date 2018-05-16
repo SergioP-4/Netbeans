@@ -10,6 +10,9 @@ package repositorio;
  * @author Alumno
  */
 public class Repositorio {
-
-    
+        private int campo1;
+        public static void main(String[] args){
+            System.out.println("Hola");
+        }
+                  
 }
